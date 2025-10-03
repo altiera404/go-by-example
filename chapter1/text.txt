@@ -1,10 +1,2 @@
-hello
-world
-world
-mhm
-ez
-12
-12
-ez
-ezez
-ez
+ex 1.4
+ex 1.3
